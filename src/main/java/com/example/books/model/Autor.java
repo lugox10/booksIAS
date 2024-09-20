@@ -1,4 +1,4 @@
-package com.example.books.domain.model;
+package com.example.books.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -18,11 +18,5 @@ public class Autor {
     private String nombre;
 
 
-    public void setId(Long id) {
-        this.id = id;
-    }
 
-    public Long getId() {
-        return id;
-    }
 }
