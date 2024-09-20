@@ -3,3 +3,5 @@
 #SE CREARON LOS MODELOS AUTOR Y BOOKS 
 
 #SE CREO EL REPOSITORIO Y ASI MISMO LOS PAQUETES DE SERVICIO Y CONTROLADOR 
+
+no se pudo avanzar mas ya que el ID INTELLEJ me tomaba INTERFAS "SERVICE" COMO UN METODO PROPIO y no me dejaba IMPLEMENTAR sus métodos en ServiceImpl, cuando le cambie el nombre ala interface pudo fusionar, lo mismo me paso en el proyecto reactivo 
